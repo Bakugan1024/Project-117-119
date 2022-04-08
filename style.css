@@ -1,9 +1,9 @@
 body {
-    background-color: rgb(3, 197, 132);
+    background-color: rgb(93, 192, 0);
 }
 
 h1 {
-    color: rgb(4, 177, 207);
+    color: rgb(0, 143, 153);
     background-color: rgb(203, 230, 253);
 }
 
@@ -11,6 +11,17 @@ h1 {
     float: right;
 }
 
+#time{
+    font-size: 35px;
+    float: right;
+    margin-right: 20px;
+}
+
+#score{
+    font-size: 35px;
+    float: left;
+    margin-left: 20px;
+}
 
 canvas {
     border: 5px solid white;
